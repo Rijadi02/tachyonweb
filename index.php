@@ -53,7 +53,7 @@ if(isset($_POST["submit"]))
                                     <div class="col-lg-6" data-aos="fade-up">
                                         <h1 class="page-header-title">Developing the future</h1>
                                         <p class="page-header-text mb-5">Faster than light itself!</p>
-                                        <a class="btn btn-white text-gray-600 btn-marketing rounded-pill lift lift-sm" href="index.html">View Pages<i class="fas fa-arrow-right ml-1"></i></a>
+                                        <!-- <a class="btn btn-white text-gray-600 btn-marketing rounded-pill lift lift-sm" href="index.html">View Pages<i class="fas fa-arrow-right ml-1"></i></a> -->
                                     </div>
                                     <div class="col-lg-6 d-none d-lg-block" data-aos="fade-up" data-aos-delay="50"><img class="img-fluid" src="assets/img/foto/tachyon-white.png" /></div>
                                 </div>
@@ -229,12 +229,7 @@ if(isset($_POST["submit"]))
                                         <div class="section-preheading">Email</div>
                                         <p class="text-light pt-3">tachyondevelop@gmail.com</p>
                                     </div>
-                                </div>
-                                <form method="post">
-                                    <div class="form-row">
-                                        <div class="form-group col-md-6"><label class="text-light" for="inputName">Full name</label><input class="form-control py-4" id="inputName" name="name" type="text" placeholder="Full name"></div>
-                                        <div class="form-group col-md-6"><label class="text-light" for="inputEmail">Email</label><input class="form-control py-4" id="inputEmail" name="email" type="email" placeholder="name@example.com"></div>
-                                    </div>
+4
                                     <div class="form-group"><label class="text-light" for="inputMessage">Message</label><textarea class="form-control py-3" id="inputMessage" name="content" type="text" placeholder="Enter your message..." rows="4"></textarea></div>
                                     <div class="text-center"><button name="submit" class="btn btn-primary btn-marketing mt-4" type="submit">Submit Request</button></div>
                                 </form>
