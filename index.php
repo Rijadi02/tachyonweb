@@ -152,9 +152,9 @@ if(isset($_POST["submit"]))
                                                 <br>
                                                 <div class="align-items-center">
                                                         <h1>
-                                                        <a class="icon-list-social-link text-decoration-none text-danger" href="https://www.instagram.com/notrijad/"> <i class="fab fa-instagram"> </i> </a>
-                                                        <a class="icon-list-social-link text-decoration-none text-danger" href="https://www.facebook.com/rijad.morina"> <i class="fab fa-facebook"></i> </a> 
-                                                        <a class="icon-list-social-link text-decoration-none text-danger" href="https://github.com/Rijadi02"> <i class="fab fa-github"></i> </a>
+                                                        <a class="icon-list-social-link text-decoration-none text-dark" href="https://www.instagram.com/notrijad/"> <i class="fab fa-instagram"> </i> </a>
+                                                        <a class="icon-list-social-link text-decoration-none text-dark" href="https://www.facebook.com/rijad.morina"> <i class="fab fa-facebook"></i> </a> 
+                                                        <a class="icon-list-social-link text-decoration-none text-dark" href="https://github.com/Rijadi02"> <i class="fab fa-github"></i> </a>
                                                         </h1> <!-- <a class="icon-list-social-link" href="javascript:void(0);"> <i class="fab fa-twitter"></i> </a> -->
                                                 </div>
                                              </div>
@@ -170,9 +170,9 @@ if(isset($_POST["submit"]))
                                                      <p class="card-text py-5">Experienced in App development, Web development, Algorithms, C#, Python (Django, OpenCV), PHP, Photoshop and many more! <br> Role: Main Developer  </p>
                                                      <div class="align-items-center">
                                                         <h1>
-                                                        <a class="icon-list-social-link text-decoration-none text-warning" href="https://www.instagram.com/treeloon/"> <i class="fab fa-instagram"> </i> </a>
-                                                        <a class="icon-list-social-link text-decoration-none text-warning" href="https://www.facebook.com/venis.venimorina"> <i class="fab fa-facebook"></i> </a> 
-                                                        <a class="icon-list-social-link text-decoration-none text-warning" href="https://github.com/Rijadi02"> <i class="fab fa-github"></i> </a>
+                                                        <a class="icon-list-social-link text-decoration-none text-dark" href="https://www.instagram.com/treeloon/"> <i class="fab fa-instagram"> </i> </a>
+                                                        <a class="icon-list-social-link text-decoration-none text-dark" href="https://www.facebook.com/venis.venimorina"> <i class="fab fa-facebook"></i> </a> 
+                                                        <a class="icon-list-social-link text-decoration-none text-dark" href="https://github.com/Rijadi02"> <i class="fab fa-github"></i> </a>
                                                         </h1> <!-- <a class="icon-list-social-link" href="javascript:void(0);"> <i class="fab fa-twitter"></i> </a> -->
                                                     </div>
                                                 </div>
