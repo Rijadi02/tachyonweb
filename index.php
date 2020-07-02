@@ -229,7 +229,12 @@ if(isset($_POST["submit"]))
                                         <div class="section-preheading">Email</div>
                                         <p class="text-light pt-3">tachyondevelop@gmail.com</p>
                                     </div>
-4
+                                </div>
+                                <form method="post">
+                                    <div class="form-row">
+                                        <div class="form-group col-md-6"><label class="text-light" for="inputName">Full name</label><input class="form-control py-4" id="inputName" name="name" type="text" placeholder="Full name"></div>
+                                        <div class="form-group col-md-6"><label class="text-light" for="inputEmail">Email</label><input class="form-control py-4" id="inputEmail" name="email" type="email" placeholder="name@example.com"></div>
+                                    </div>
                                     <div class="form-group"><label class="text-light" for="inputMessage">Message</label><textarea class="form-control py-3" id="inputMessage" name="content" type="text" placeholder="Enter your message..." rows="4"></textarea></div>
                                     <div class="text-center"><button name="submit" class="btn btn-primary btn-marketing mt-4" type="submit">Submit Request</button></div>
                                 </form>
