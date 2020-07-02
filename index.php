@@ -149,7 +149,14 @@ if(isset($_POST["submit"]))
                                             <div class="col-xl-12 col-lg-12 text-center">
                                                 <img class="mb-1" src="assets/img/foto/rijad.png" style="width: 100%;" /><h6>Rijad Morina</h6>
                                                 <p class="card-text py-5">Experienced in Research, Web development, 3D modeling, Python(Django), PHP, HTML&CSS&JS. <br>Role: Project Manager</p>
-
+                                                <br>
+                                                <div class="align-items-center">
+                                                        <h1>
+                                                        <a class="icon-list-social-link text-decoration-none text-danger" href="https://www.instagram.com/notrijad/"> <i class="fab fa-instagram"> </i> </a>
+                                                        <a class="icon-list-social-link text-decoration-none text-danger" href="https://www.facebook.com/rijad.morina"> <i class="fab fa-facebook"></i> </a> 
+                                                        <a class="icon-list-social-link text-decoration-none text-danger" href="https://github.com/Rijadi02"> <i class="fab fa-github"></i> </a>
+                                                        </h1> <!-- <a class="icon-list-social-link" href="javascript:void(0);"> <i class="fab fa-twitter"></i> </a> -->
+                                                </div>
                                              </div>
                                         </div>
                                     </div>
@@ -161,6 +168,13 @@ if(isset($_POST["submit"]))
                                                 <div class="col-xl-12 col-lg-12 text-center">
                                                     <img class="mb-1" src="assets/img/foto/venis.png" style="width: 100%;" /><h6>Venis Morina</h6>
                                                      <p class="card-text py-5">Experienced in App development, Web development, Algorithms, C#, Python (Django, OpenCV), PHP, Photoshop and many more! <br> Role: Main Developer  </p>
+                                                     <div class="align-items-center">
+                                                        <h1>
+                                                        <a class="icon-list-social-link text-decoration-none text-warning" href="https://www.instagram.com/treeloon/"> <i class="fab fa-instagram"> </i> </a>
+                                                        <a class="icon-list-social-link text-decoration-none text-warning" href="https://www.facebook.com/venis.venimorina"> <i class="fab fa-facebook"></i> </a> 
+                                                        <a class="icon-list-social-link text-decoration-none text-warning" href="https://github.com/Rijadi02"> <i class="fab fa-github"></i> </a>
+                                                        </h1> <!-- <a class="icon-list-social-link" href="javascript:void(0);"> <i class="fab fa-twitter"></i> </a> -->
+                                                    </div>
                                                 </div>
                                             </div>
                                         </div>
