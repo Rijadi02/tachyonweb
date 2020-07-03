@@ -240,7 +240,7 @@ if(isset($_POST["submit"]))
                                        <p class="text-light pt-3">(383) 44 575 052</p>
                                     </div>
                                     <div class="col-lg-4 text-center">
-                                        <div class="section-preheading">Email</div>
+                                        <div class="section-preheading">Email Address</div>
                                         <p class="text-light pt-3">tachyondevelop@gmail.com</p>
                                     </div>
                                 </div>
