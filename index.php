@@ -91,7 +91,7 @@ if(isset($_POST["submit"]))
                         <div class="container z-1">
                             <div class="card mb-5" data-aos="fade-right">
                                 <div class="row no-gutters">
-                                    <div class="col-md-6"><img class="img-fluid" src="assets/img/foto/xcom.png" alt="..." /></div>
+                                    <div class="col-md-6"><img class="img-fluid" src="assets/img/foto/xcom.jpg" alt="..." /></div>
                                     <div class="col-md-6">
                                         <div class="card-body d-flex align-items-center justify-content-center h-100 flex-column">
                                             <h3 class="card-title font-weight-bold text-uppercase mb-2">XCOM</h3>
@@ -110,12 +110,12 @@ if(isset($_POST["submit"]))
                                             <a class="btn btn-outline-dark btn-marketing rounded-pill" href="https://play.google.com/store/apps/details?id=com.TaychonDevelopers.Atomos">View</a>
                                         </div>
                                     </div>
-                                    <div class="col-md-6 order-0 order-md-1"><img class="img-fluid" src="assets/img/foto/atomos (2).png" alt="..." /></div>
+                                    <div class="col-md-6 order-0 order-md-1"><img class="img-fluid" src="assets/img/foto/atomos.jpg" alt="..." /></div>
                                 </div>
                             </div>
                             <div class="card" data-aos="fade-right">
                                 <div class="row no-gutters">
-                                    <div class="col-md-6"><img class="img-fluid" src="assets/img/foto/testi.png" alt="..." /></div>
+                                    <div class="col-md-6"><img class="img-fluid" src="assets/img/foto/testi.jpg" alt="..." /></div>
                                     <div class="col-md-6">
                                         <div class="card-body d-flex align-items-center justify-content-center h-100 flex-column">
                                             <h3 class="card-title font-weight-bold text-uppercase mb-2">Matura</h3>
@@ -147,7 +147,7 @@ if(isset($_POST["submit"]))
                                     <div class="card pricing h-100">
                                         <div class="card-body p-5">
                                             <div class="col-xl-12 col-lg-12 text-center">
-                                                <img class="mb-1" src="assets/img/foto/rijad.png" style="width: 100%;" /><h6>Rijad Morina</h6>
+                                                <img class="mb-1" src="assets/img/foto/rijad.jpg" style="width: 100%;" /><h6>Rijad Morina</h6>
                                                 <p class="card-text py-5">Experienced in Research, Web development, 3D modeling, Python(Django), PHP, HTML&CSS&JS. <br>Role: Project Manager</p>
                                                 <br>
                                                 <div class="align-items-center">
@@ -166,7 +166,7 @@ if(isset($_POST["submit"]))
                                         <div class="card pricing h-100">
                                             <div class="card-body p-5">
                                                 <div class="col-xl-12 col-lg-12 text-center">
-                                                    <img class="mb-1" src="assets/img/foto/venis.png" style="width: 100%;" /><h6>Venis Morina</h6>
+                                                    <img class="mb-1" src="assets/img/foto/venis.jpg" style="width: 100%;" /><h6>Venis Morina</h6>
                                                      <p class="card-text py-5">Experienced in App development, Web development, Algorithms, C#, Python (Django, OpenCV), PHP, Photoshop and many more! <br> Role: Main Developer  </p>
                                                      <div class="align-items-center">
                                                         <h1>
