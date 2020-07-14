@@ -107,7 +107,7 @@ if(isset($_POST["submit"]))
                                 <div class="row no-gutters">
                                     <div class="col-md-6 order-1 order-md-0">
                                         <div class="card-body d-flex align-items-center justify-content-center h-100 flex-column">
-                                            <h3 class="card-title font-weight-bold text-uppercase mb-2">Muhalife</h3>
+                                            <h3 class="card-title font-weight-bold text-uppercase mb-2">Atomos AR</h3>
                                             <p class="card-text font-weight-light mb-4"><center>Physics based educational mobile application</center></p>
                                             <a class="btn btn-outline-dark btn-marketing rounded-pill" href="https://play.google.com/store/apps/details?id=com.TaychonDevelopers.Atomos">View</a>
                                         </div>
