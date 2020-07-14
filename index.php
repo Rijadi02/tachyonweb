@@ -98,7 +98,7 @@ if(isset($_POST["submit"]))
                                         <div class="card-body d-flex align-items-center justify-content-center h-100 flex-column">
                                             <h3 class="card-title font-weight-bold text-uppercase mb-2">XCOM</h3>
                                             <p class="card-text font-weight-light mb-4"><center>E-commerce/Augumented Reality mobile application</center></p>
-                                            <a class="btn btn-outline-dark btn-marketing rounded-pill" href="https://x-com.store/ ">View</a>
+                                            <a class="btn btn-outline-dark btn-marketing rounded-pill" href="https://x-com.store/xcom/ ">View</a>
                                         </div>
                                     </div>
                                 </div>
