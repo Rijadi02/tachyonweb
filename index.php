@@ -40,8 +40,10 @@ if(isset($_POST["submit"]))
                                     <li class="nav-item"><a class="nav-link" href="#Home">Home </a></li>
                                     <li class="nav-item"><a class="nav-link" href="#Features">Features </a></li>
                                     <li class="nav-item"><a class="nav-link" href="#Projects">Projects </a></li>
+                                    <li class="nav-item"><a class="nav-link" href="#Achievements">Achievements </a></li>
                                     <li class="nav-item"><a class="nav-link" href="#Team">Team </a></li>
                                     <li class="nav-item"><a class="nav-link" href="#Contact">Contact </a></li>
+                                    
                                 </ul>
                             </div>
                         </div>
@@ -131,12 +133,55 @@ if(isset($_POST["submit"]))
                         </div>
             
                     </section>
+                    <section id="Achievements" class="bg-white py-10">
+                        <div class="container">
+                            <div class="row mb-5">
+                                <div class="col-lg-4 mb-5">
+                                    <a class="card lift h-100" href="https://ickosovo.com/incubator/startups"
+                                        ><img class="card-img-top" style="object-fit: cover; height:40%"  src="assets/img/foto/ick.jpg" alt="..." style="f"/>
+                                        <div class="card-body">
+                                            <h4 class="card-title mb-2">Innovation Center of Kosovo</h4>
+                                            <p class="card-text">Our team were one of the winners of StartUP Revenue Workshop with one of our projects: XCOM</p>
+                                        </div>
+                                        <div class="card-footer bg-transparent border-top d-flex align-items-center justify-content-between">
+                                            <div class="small text-primary">See more</div>
+                                            <div class="small text-primary"><i data-feather="arrow-right"></i></div></div
+                                    ></a>
+                                </div>
+                                <div class="col-lg-4 mb-5">
+                                    <a class="card lift h-100" href="https://kk.rks-gov.net/gllogoc/news/rijad-morina-izet-gashi-dhe-argjend-gashi-fitues-te-gares-java-e-shkences-e-organizuar-nga-don-bosko/"
+                                        ><img class="card-img-top" style="object-fit: cover; height:40%" src="assets/img/foto/java.jpg" alt="..." >
+                                        <div class="card-body">
+                                            <h4 class="card-title mb-2">Java e Shekences</h4>
+                                            <p class="card-text">Winning the first spot in "Java e Shkences" with our project "Atomos AR", was one of the great achievments of our team.</p>
+                                        </div>
+                                        <div class="card-footer bg-transparent border-top d-flex align-items-center justify-content-between">
+                                            <div class="small text-primary">See more</div>
+                                            <div class="small text-primary"><i data-feather="arrow-right"></i></div></div
+                                    ></a>
+                                </div>
+                                <div class="col-lg-4 mb-5">
+                                    <a class="card lift h-100" href="https://ictawards.org/2019/edicioni-i-8-te-i-ict-awards-ndan-cmimet-per-historite-shqiptare-te-suksesit-ne-teknologji/"
+                                        ><img class="card-img-top"  style="object-fit: cover; height:40%" src="assets/img/foto/ict.jpg" alt="..."/>
+                                        <div class="card-body">
+                                            <h4 class="card-title mb-2">ICT Awards</h4>
+                                            <p class="card-text">The greatest individual achievements in the Albanian lands are ICT Awards. We are glad that one of our team members, Venis Morina, won "Rising Star of the Year"</p>
+                                        </div>
+                                        <div class="card-footer bg-transparent border-top d-flex align-items-center justify-content-between">
+                                            <div class="small text-primary">See more</div>
+                                            <div class="small text-primary"><i data-feather="arrow-right"></i></div></div
+                                    ></a>
+                                </div>
+                            </div>
+                            
+                        </div>
+                    </section>
 
 
 
 
                     <!-- <hr class="m-0" /> -->
-                    <section id="Team" class="bg-white pt-10">
+                    <section id="Team" class="bg-white pt-0">
                         <div class="container">
                             <div class="text-center mb-10">
                                 <h2>Our Team</h2>
