@@ -98,7 +98,7 @@ if(isset($_POST["submit"]))
                                         <div class="card-body d-flex align-items-center justify-content-center h-100 flex-column">
                                             <h3 class="card-title font-weight-bold text-uppercase mb-2">XCOM</h3>
                                             <p class="card-text font-weight-light mb-4"><center>E-commerce/Augumented Reality mobile application</center></p>
-                                            <a class="btn btn-outline-dark btn-marketing rounded-pill" href="https://x-com.store/xcom/ ">View</a>
+                                            <a class="btn btn-outline-dark btn-marketing rounded-pill" href="https://x-com.store/xcom/">View</a>
                                         </div>
                                     </div>
                                 </div>
@@ -149,8 +149,7 @@ if(isset($_POST["submit"]))
                                     ></a>
                                 </div>
                                 <div class="col-lg-4 mb-5">
-                                    <a class="card lift h-100" href="https://kk.rks-gov.net/gllogoc/news/rijad-morina-izet-gashi-dhe-argjend-gashi-fitues-te-gares-java-e-shkences-e-organizuar-nga-don-bosko/"
-                                        ><img class="card-img-top" style="object-fit: cover; height:40%" src="assets/img/foto/java.jpg" alt="..." >
+                                    <a class="card lift h-100" href="https://kk.rks-gov.net/gllogoc/news/rijad-morina-izet-gashi-dhe-argjend-gashi-fitues-te-gares-java-e-shkences-e-organizuar-nga-don-bosko/"><img class="card-img-top" style="object-fit: cover; height:40%" src="assets/img/foto/java.jpg" alt="..." >
                                         <div class="card-body">
                                             <h4 class="card-title mb-2">Java e Shekences</h4>
                                             <p class="card-text">Winning the first spot in "Java e Shkences" with our project "Atomos AR", was one of the great achievments of our team.</p>
