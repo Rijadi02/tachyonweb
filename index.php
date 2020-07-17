@@ -55,7 +55,7 @@ if(isset($_POST["submit"]))
                                     <div class="col-lg-6" data-aos="fade-up">
                                         <h1 class="page-header-title">Developing the future</h1>
                                         <p class="page-header-text mb-5">Faster than light itself!</p>
-                                        <!-- <a class="btn btn-white text-gray-600 btn-marketing rounded-pill lift lift-sm" href="index.html">View Pages<i class="fas fa-arrow-right ml-1"></i></a> -->
+                                        <a class="btn btn-white text-gray-600 btn-marketing rounded-pill lift lift-sm" href="#Projects">Projects<i class="fas fa-arrow-down ml-1"></i></a> -->
                                     </div>
                                     <div class="col-lg-6 d-none d-lg-block" data-aos="fade-up" data-aos-delay="50"><img class="img-fluid" src="assets/img/foto/tachyon-white.png" /></div>
                                 </div>
