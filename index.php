@@ -180,14 +180,14 @@ if(isset($_POST["submit"]))
 
 
                     <!-- <hr class="m-0" /> -->
-                    <section id="Team" class="bg-white pt-0">
+                   <section id="Team" class="bg-white pt-0">
                         <div class="container">
                             <div class="text-center mb-10">
                                 <h2>Our Team</h2>
                                 
                             </div>
                             <div class="row z-1">
-                                <div class="col-lg-6 mb-5 mb-lg-n10" data-aos="fade-up" data-aos-delay="100">
+                                <div class="col-lg-4 mb-3 mb-lg-n7" data-aos="fade-up" data-aos-delay="100">
                                     <div class="card pricing h-100">
                                         <div class="card-body p-5">
                                             <div class="col-xl-12 col-lg-12 text-center">
@@ -205,7 +205,26 @@ if(isset($_POST["submit"]))
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-lg-6 mb-5 mb-lg-n10" data-aos="fade-up">
+                                <div class="col-lg-4 mb-3 mb-lg-n7" data-aos="fade-up" data-aos-delay="100">
+                                <div class="card pricing h-100">
+                                        <div class="card pricing h-100">
+                                            <div class="card-body p-5">
+                                                <div class="col-xl-12 col-lg-12 text-center">
+                                                    <img class="mb-1" src="assets/img/foto/visari.png" style="width: 100%;" /><h6>Valon Isufi</h6>
+                                                     <p class="card-text py-5">Mr.Dr.PhD Isufi is the newest memeber of your team. He is working hard for our team, but he is not being paid, and we have no plan on paying him tbh.</p>
+                                                     <div class="align-items-center">
+                                                        <h1>
+                                                        <a class="icon-list-social-link text-decoration-none text-dark" href="https://www.instagram.com/venis.morina/"> <i class="fab fa-instagram"> </i> </a>
+                                                        <a class="icon-list-social-link text-decoration-none text-dark" href="https://www.facebook.com/venis.venimorina"> <i class="fab fa-facebook"></i> </a> 
+                                                        <a class="icon-list-social-link text-decoration-none text-dark" href="https://github.com/Rijadi02"> <i class="fab fa-github"></i> </a>
+                                                        </h1> <!-- <a class="icon-list-social-link" href="javascript:void(0);"> <i class="fab fa-twitter"></i> </a> -->
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 mb-3 mb-lg-n7" data-aos="fade-up">
                                     <div class="card pricing h-100">
                                         <div class="card pricing h-100">
                                             <div class="card-body p-5">
