@@ -55,7 +55,7 @@ if(isset($_POST["submit"]))
                                     <div class="col-lg-6" data-aos="fade-up">
                                         <h1 class="page-header-title">Developing the future</h1>
                                         <p class="page-header-text mb-5">Faster than light itself!</p>
-                                        <a class="btn btn-white text-gray-600 btn-marketing rounded-pill lift lift-sm" href="#Projects">Projects<i class="fas fa-arrow-down ml-1"></i></a> -->
+                                        <a class="btn btn-white text-gray-600 btn-marketing rounded-pill lift lift-sm" href="#Projects">Projects<i class="fas fa-arrow-down ml-1"></i></a>
                                     </div>
                                     <div class="col-lg-6 d-none d-lg-block" data-aos="fade-up" data-aos-delay="50"><img class="img-fluid" src="assets/img/foto/tachyon-white.png" /></div>
                                 </div>
@@ -210,7 +210,7 @@ if(isset($_POST["submit"]))
                                         <div class="card pricing h-100">
                                             <div class="card-body p-5">
                                                 <div class="col-xl-12 col-lg-12 text-center">
-                                                    <img class="mb-1" src="assets/img/foto/visari.png" style="width: 100%;" /><h6>Valon Isufi</h6>
+                                                    <img class="mb-1" src="assets/img/foto/visari.png" style="width: 100%;" /><h6>Visar Isufi</h6>
                                                      <p class="card-text py-5">Mr.Dr.PhD Isufi is the newest memeber of your team. He is working hard for our team, but he is not being paid, and we have no plan on paying him tbh.</p>
                                                      <div class="align-items-center">
                                                         <h1>
