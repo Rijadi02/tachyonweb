@@ -210,8 +210,8 @@ if(isset($_POST["submit"]))
                                         <div class="card pricing h-100">
                                             <div class="card-body p-5">
                                                 <div class="col-xl-12 col-lg-12 text-center">
-                                                    <img class="mb-1" src="assets/img/foto/visari.png" style="width: 100%;" /><h6>Visar Isufi</h6>
-                                                     <p class="card-text py-5">Mr.Dr.PhD Isufi is the newest memeber of your team. He is working hard for our team, but he is not being paid, and we have no plan on paying him tbh.</p>
+                                                    <img class="mb-1" src="assets/img/foto/visari.png" style="width: 100%;" /><h6>Endri Binaku</h6>
+                                                     <p class="card-text py-5">Endri Binaku works at TachyonDev as web developer, he is skilled in back-end as well as front end. Endri mainly works with Django.</p>
                                                      <div class="align-items-center">
                                                         <h1>
                                                         <a class="icon-list-social-link text-decoration-none text-dark" href="https://www.instagram.com/venis.morina/"> <i class="fab fa-instagram"> </i> </a>
