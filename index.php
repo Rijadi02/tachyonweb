@@ -214,9 +214,9 @@ if(isset($_POST["submit"]))
                                                      <p class="card-text py-5">Endri Binaku works at TachyonDev as web developer, he is skilled in back-end as well as front end. Endri mainly works with Django.</p>
                                                      <div class="align-items-center">
                                                         <h1>
-                                                        <a class="icon-list-social-link text-decoration-none text-dark" href="https://www.instagram.com/venis.morina/"> <i class="fab fa-instagram"> </i> </a>
-                                                        <a class="icon-list-social-link text-decoration-none text-dark" href="https://www.facebook.com/venis.venimorina"> <i class="fab fa-facebook"></i> </a> 
-                                                        <a class="icon-list-social-link text-decoration-none text-dark" href="https://github.com/Rijadi02"> <i class="fab fa-github"></i> </a>
+                                                        <a class="icon-list-social-link text-decoration-none text-dark" href="https://www.instagram.com/binakuendri_/"> <i class="fab fa-instagram"> </i> </a>
+                                                        <a class="icon-list-social-link text-decoration-none text-dark" href="https://www.facebook.com/endri.binaku.9"> <i class="fab fa-facebook"></i> </a> 
+                                                        <a class="icon-list-social-link text-decoration-none text-dark" href="https://github.com/Binakuendri"> <i class="fab fa-github"></i> </a>
                                                         </h1> <!-- <a class="icon-list-social-link" href="javascript:void(0);"> <i class="fab fa-twitter"></i> </a> -->
                                                     </div>
                                                 </div>
