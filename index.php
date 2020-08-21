@@ -55,7 +55,7 @@ if(isset($_POST["submit"]))
                                     <div class="col-lg-6" data-aos="fade-up">
                                         <h1 class="page-header-title">Developing the future</h1>
                                         <p class="page-header-text mb-5">Faster than light itself!</p>
-                                        <!-- <a class="btn btn-white text-gray-600 btn-marketing rounded-pill lift lift-sm" href="index.html">View Pages<i class="fas fa-arrow-right ml-1"></i></a> -->
+                                        <a class="btn btn-white text-gray-600 btn-marketing rounded-pill lift lift-sm" href="#Projects">Projects<i class="fas fa-arrow-down ml-1"></i></a>
                                     </div>
                                     <div class="col-lg-6 d-none d-lg-block" data-aos="fade-up" data-aos-delay="50"><img class="img-fluid" src="assets/img/foto/tachyon-white.png" /></div>
                                 </div>
@@ -180,14 +180,14 @@ if(isset($_POST["submit"]))
 
 
                     <!-- <hr class="m-0" /> -->
-                    <section id="Team" class="bg-white pt-0">
+                   <section id="Team" class="bg-white pt-0">
                         <div class="container">
                             <div class="text-center mb-10">
                                 <h2>Our Team</h2>
                                 
                             </div>
                             <div class="row z-1">
-                                <div class="col-lg-6 mb-5 mb-lg-n10" data-aos="fade-up" data-aos-delay="100">
+                                <div class="col-lg-4 mb-3 mb-lg-n7" data-aos="fade-up" data-aos-delay="100">
                                     <div class="card pricing h-100">
                                         <div class="card-body p-5">
                                             <div class="col-xl-12 col-lg-12 text-center">
@@ -205,7 +205,26 @@ if(isset($_POST["submit"]))
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-lg-6 mb-5 mb-lg-n10" data-aos="fade-up">
+                                <div class="col-lg-4 mb-3 mb-lg-n7" data-aos="fade-up" data-aos-delay="100">
+                                <div class="card pricing h-100">
+                                        <div class="card pricing h-100">
+                                            <div class="card-body p-5">
+                                                <div class="col-xl-12 col-lg-12 text-center">
+                                                    <img class="mb-1" src="assets/img/foto/visari.png" style="width: 100%;" /><h6>Endri Binaku</h6>
+                                                     <p class="card-text py-5">Endri Binaku works at TachyonDev as web developer and video editor, he is skilled in back-end as well as front end. Endri mainly works with Django and Java and Premiere Pro.</p>
+                                                     <div class="align-items-center">
+                                                        <h1>
+                                                        <a class="icon-list-social-link text-decoration-none text-dark" href="https://www.instagram.com/binakuendri_/"> <i class="fab fa-instagram"> </i> </a>
+                                                        <a class="icon-list-social-link text-decoration-none text-dark" href="https://www.facebook.com/endri.binaku.9"> <i class="fab fa-facebook"></i> </a> 
+                                                        <a class="icon-list-social-link text-decoration-none text-dark" href="https://github.com/Binakuendri"> <i class="fab fa-github"></i> </a>
+                                                        </h1> <!-- <a class="icon-list-social-link" href="javascript:void(0);"> <i class="fab fa-twitter"></i> </a> -->
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 mb-3 mb-lg-n7" data-aos="fade-up">
                                     <div class="card pricing h-100">
                                         <div class="card pricing h-100">
                                             <div class="card-body p-5">
