@@ -210,7 +210,7 @@ if(isset($_POST["submit"]))
                                         <div class="card pricing h-100">
                                             <div class="card-body p-5">
                                                 <div class="col-xl-12 col-lg-12 text-center">
-                                                    <img class="mb-1" src="assets/img/foto/visari.png" style="width: 100%;" /><h6>Endri Binaku</h6>
+                                                    <img class="mb-1" src="assets/img/foto/endri.jpg" style="width: 100%;" /><h6>Endri Binaku</h6>
                                                      <p class="card-text py-5">Endri Binaku works at TachyonDev as web developer and video editor, he is skilled in back-end as well as front end. Endri mainly works with Django and Java and Premiere Pro.</p>
                                                      <div class="align-items-center">
                                                         <h1>
