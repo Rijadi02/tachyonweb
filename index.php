@@ -233,6 +233,7 @@ if(isset($_POST["submit"]))
                                                      <p class="card-text py-5">Experienced in App development, Web development, Algorithms, C#, Python (Django, OpenCV), PHP, Photoshop and many more! <br> Role: Main Developer  </p>
                                                      <div class="align-items-center">
                                                         <h1>
+                                                            <!-- useless comment -->
                                                         <a class="icon-list-social-link text-decoration-none text-dark" href="https://www.instagram.com/venis.morina/"> <i class="fab fa-instagram"> </i> </a>
                                                         <a class="icon-list-social-link text-decoration-none text-dark" href="https://www.facebook.com/venis.venimorina"> <i class="fab fa-facebook"></i> </a> 
                                                         <a class="icon-list-social-link text-decoration-none text-dark" href="https://github.com/Rijadi02"> <i class="fab fa-github"></i> </a>
